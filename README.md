@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Pavel
 #### I am Python-developer
-![I am Python-developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Python- разработчик имею опыт около 2 лет использования данного языка и около 7 домашних проектов. До этого разрабатывал веб-приложения с использованием JS, React и Vue. За последнее время освоил Django.
+Python- developer i have about 2 years of experience using this language and about 7 home projects. Previously, I developed web applications using JS, React and Vue. Recently I have mastered Django.
 
 VK: https://vk.com/ziltriz
 
