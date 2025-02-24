@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pavel
 #### I am Python-developer
 
-Python- developer i have about 3 years of experience using this language and about 7 home projects. Previously, I developed web applications using JS, React and Vue. Recently I have mastered Django.
+Python- developer i have about 3 years of experience using this language and about 7 home projects. Previously, I developed web applications using Python(Django, Fast Api)
 
 VK: https://vk.com/ziltriz
 
